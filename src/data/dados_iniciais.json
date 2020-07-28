@@ -1,0 +1,209 @@
+{
+  "categorias": [
+    {
+      "titulo": "Lançamentos da semana",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#FFD700",
+      "link_extra": {
+        "text": "As novidades mais vistas",
+        "url": "https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlha0lpU1NjeDdwR25TR0F3OWJOMEhrMQ%3D%3D"
+      },
+      "videos": [
+        {
+          "titulo": "1 BILHÃO E MEIO DE VISUALIZAÇÕES",
+          "url": "https://www.youtube.com/watch?v=fKopy74weus"
+        },
+        {
+          "titulo": "Taylor Swift – exile (feat. Bon Iver)",
+          "url": "https://www.youtube.com/watch?v=osdoLjUNFnA"
+        },
+        {
+          "titulo": "Now United - Venha Junto",
+          "url": "https://www.youtube.com/watch?v=bkOrAgnSipg"
+        },
+        {
+          "titulo": "Os Barões da Pisadinha - Quem me Colocou pra Beber ",
+          "url": "https://www.youtube.com/watch?v=yuNeGVw0hSY"
+        },
+        {
+          "titulo": "One Direction - 10 Years of One Direction",
+          "url": "https://www.youtube.com/watch?v=31tClDsYJKY"
+        },
+        {
+          "titulo": "Marília Mendonça & Maiara e Maraisa - Coração Bandido",
+          "url": "https://www.youtube.com/watch?v=lxcpH6kvnmg"
+        },
+        {
+          "titulo": "MC Hariel - Espancando Recalque",
+          "url": "https://www.youtube.com/watch?v=wnoArhG7PBw"
+        },
+        {
+          "titulo": "Taylor Swift - cardigan",
+          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Pagode",
+      "cor": "#53dc98",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Menos é Mais nos Arcos - Me Leva/Estou Mal/Recado a Minha Amada",
+          "url": "/"
+        },
+        {
+          "titulo": "Menos é Mais nos Arcos - Me Leva/Estou Mal/Recado a Minha Amada",
+          "url": "https://www.youtube.com/watch?v=I7t3vCqXUcU"
+        },
+        {
+          "titulo": "Péricles - 40 Graus / Gamei / Azul Sem Fim / Até o Sol Quis Ver / A Carta",
+          "url": "https://www.youtube.com/watch?v=jepDyRwQFS0"
+        },
+        {
+          "titulo": "Ferrugem - Sinto sua Falta, É Natural, Pra Você Acreditar e Pirata e Tesouro",
+          "url": "https://www.youtube.com/watch?v=JhXagtxvDKY&list=RD1LlgfPTBbKU&index=28"
+        }, 
+        {
+          "titulo": "Exaltasamba - Mega Star",
+          "url": "https://www.youtube.com/watch?v=t8lGXi7Rq9A&list=RD1LlgfPTBbKU&index=4"
+        }, 
+        {
+          "titulo": "Turma do Pagode - Sobrenatural / Eu Nunca Amei Assim",
+          "url": "https://www.youtube.com/watch?v=bPviMA2L6_M&list=RD1LlgfPTBbKU&index=8"
+        }
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "/"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=bMQjwQCfclU&list=RDGMEM2VCIgaiSqOfVzBAjPJm-agVMbMQjwQCfclU&start_radio=1"
+        },
+        {
+          "titulo": "Maiara e Maraisa part. Dilsinho - Libera Ela",
+          "url": "https://www.youtube.com/watch?v=gjO3Xk0nYdU"
+        },
+        {
+          "titulo": "Gusttavo Lima - Saudade Sua",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+        },
+        {
+          "titulo": "Henrique e Juliano - SE EU FOSSE VOCÊ",
+          "url": "https://www.youtube.com/watch?v=tsyETGFUXiI"
+        },
+        {
+          "titulo": "Jorge & Mateus - Ranking",
+          "url": "https://www.youtube.com/watch?v=4_QvhB89T-g"
+        },
+        {
+          "titulo": "Marília Mendonça - SERENATA",
+          "url": "https://www.youtube.com/watch?v=noKzDrxHioc"
+        }
+      ]
+    },
+    {
+      "titulo": "POP",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": "/"
+        },
+        {
+          "titulo": "The Chainsmokers - Closer",
+          "url": "https://www.youtube.com/watch?v=PT2_F-1esPk"
+        },
+        {
+          "titulo": "Maroon 5 - Girls Like You ft. Cardi B",
+          "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
+        },
+        {
+          "titulo": "Justin Bieber - Sorry",
+          "url": "https://www.youtube.com/watch?v=fRh_vgS2dFE"
+        },
+        {
+          "titulo": "The Chainsmokers - Don't Let Me Down",
+          "url": "https://www.youtube.com/watch?v=Io0fBr1XBUA"
+        },
+        {
+          "titulo": "Beyoncé - Halo",
+          "url": "https://www.youtube.com/watch?v=bnVUHWCynig"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
