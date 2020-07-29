@@ -1,10 +1,10 @@
 import React from 'react';
-import Menu from './components/Menu'
+import Menu from '../../components/Menu'
 import styled from 'styled-components';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
-//import Footer from './components/Footer';
-import dadosIniciais from './data/dados_iniciais.json';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
+import dadosIniciais from '../../data/dados_iniciais.json';
 
 const AppWrapper = styled.div`
   background: var(--grayDark);
@@ -44,6 +44,8 @@ function App() {
         ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
       />
+
+      <Footer />
       
     </AppWrapper>
   );

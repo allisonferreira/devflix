@@ -1,16 +1,17 @@
 import React from 'react';
-import Logo from '../../assets/img/nowmusic1.png'
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/img/nowmusic1.png';
 import {LogoImage, MenuWrapper} from './style';
 import Button from '../Button';
 
 function Menu(){
     return (
         <MenuWrapper className="Menu">
-            <a href="/">
+            <Link to="/">
                 <LogoImage src={Logo} alt="DEVFLIX LOGO"/>
-            </a>
+            </Link>
 
-            <Button className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo vídeo
             </Button>
         </MenuWrapper>
