@@ -1,53 +1,53 @@
 {
   "categorias": [
     {
-      "titulo": "Lançamentos da semana",
+      "titulo": "Memes Old",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#FFD700",
       "link_extra": {
-        "text": "As novidades mais vistas",
+        "text": "Vale a pena ver dinovo",
         "url": "https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlha0lpU1NjeDdwR25TR0F3OWJOMEhrMQ%3D%3D"
       },
       "videos": [
         {
-          "titulo": "1 BILHÃO E MEIO DE VISUALIZAÇÕES",
-          "url": "https://www.youtube.com/watch?v=fKopy74weus"
+          "titulo": "Centro de Beleila, Leila Cabeleleilo",
+          "url": "https://www.youtube.com/watch?v=bvOgTtZriLo&t=7s"
         },
         {
-          "titulo": "Taylor Swift – exile (feat. Bon Iver)",
-          "url": "https://www.youtube.com/watch?v=osdoLjUNFnA"
+          "titulo": "ARREIA",
+          "url": "https://www.youtube.com/watch?v=NY-JK_ie95E"
         },
         {
-          "titulo": "Now United - Venha Junto",
-          "url": "https://www.youtube.com/watch?v=bkOrAgnSipg"
+          "titulo": "Exatamenthi",
+          "url": "https://www.youtube.com/watch?v=VKKas8s16TA"
         },
         {
-          "titulo": "Os Barões da Pisadinha - Quem me Colocou pra Beber ",
-          "url": "https://www.youtube.com/watch?v=yuNeGVw0hSY"
+          "titulo": "Solange, a gaga de ilheus",
+          "url": "https://www.youtube.com/watch?v=AIFK3U3iC-k"
         },
         {
-          "titulo": "One Direction - 10 Years of One Direction",
-          "url": "https://www.youtube.com/watch?v=31tClDsYJKY"
+          "titulo": "Para a nossa alegria",
+          "url": "https://www.youtube.com/watch?v=1DfzOq0oLC8"
         },
         {
-          "titulo": "Marília Mendonça & Maiara e Maraisa - Coração Bandido",
-          "url": "https://www.youtube.com/watch?v=lxcpH6kvnmg"
+          "titulo": "Eita Giovana",
+          "url": "https://www.youtube.com/watch?v=rK1qOxn7Rdk"
         },
         {
-          "titulo": "MC Hariel - Espancando Recalque",
-          "url": "https://www.youtube.com/watch?v=wnoArhG7PBw"
+          "titulo": "Meu Óculos, Ninguém Sai, Juliana Está Desmaiada!",
+          "url": "https://www.youtube.com/watch?v=K246aHwFF04"
         },
         {
-          "titulo": "Taylor Swift - cardigan",
-          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE"
+          "titulo": "Judite",
+          "url": "https://www.youtube.com/watch?v=vEaNCoCXcdk"
         }        
       ]
     },
     {
-      "titulo": "Pagode",
+      "titulo": "Músicas",
       "cor": "#53dc98",
       "link_extra": {
-        "text": "",
+        "text": "Perfeitas para relaxar e refletir",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -56,32 +56,36 @@
           "url": "/"
         },
         {
-          "titulo": "Menos é Mais nos Arcos - Me Leva/Estou Mal/Recado a Minha Amada",
-          "url": "https://www.youtube.com/watch?v=I7t3vCqXUcU"
+          "titulo": "Daniel Gavião o James Blunt brasileiro -You're Beautiful ",
+          "url": "https://www.youtube.com/watch?v=eTmdhFGRH0s"
         },
         {
-          "titulo": "Péricles - 40 Graus / Gamei / Azul Sem Fim / Até o Sol Quis Ver / A Carta",
-          "url": "https://www.youtube.com/watch?v=jepDyRwQFS0"
+          "titulo": "Thiago Delfino Audição Ídolos",
+          "url": "https://www.youtube.com/watch?v=hQrdQnpNJV8"
         },
         {
-          "titulo": "Ferrugem - Sinto sua Falta, É Natural, Pra Você Acreditar e Pirata e Tesouro",
-          "url": "https://www.youtube.com/watch?v=JhXagtxvDKY&list=RD1LlgfPTBbKU&index=28"
+          "titulo": "Aline Borel - Eu Vacilei, Pô",
+          "url": "https://www.youtube.com/watch?v=3jO2zpjGVgk"
         }, 
         {
-          "titulo": "Exaltasamba - Mega Star",
-          "url": "https://www.youtube.com/watch?v=t8lGXi7Rq9A&list=RD1LlgfPTBbKU&index=4"
+          "titulo": "MC CAROL MEU NAMORADO E MAIOR OTARIO",
+          "url": "https://www.youtube.com/watch?v=vPh-GPz2rWs"
         }, 
         {
-          "titulo": "Turma do Pagode - Sobrenatural / Eu Nunca Amei Assim",
-          "url": "https://www.youtube.com/watch?v=bPviMA2L6_M&list=RD1LlgfPTBbKU&index=8"
+          "titulo": "MC Carol - Jorginho Me Empresta A 12",
+          "url": "https://www.youtube.com/watch?v=MR7G7hCGTIU&t=10s"
+        }, 
+        {
+          "titulo": "Aline Borel - Eu Vou Fumar Uma Maconha",
+          "url": "https://www.youtube.com/watch?v=HNOETTNauQI"
         }
       ]
     },
     {
-      "titulo": "Sertanejo",
+      "titulo": "As melhores entrevistas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "",
+        "text": "Diretamente do Jornal Nacional",
         "url": "/"
       },
       "videos": [
@@ -90,33 +94,33 @@
           "url": "/"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=bMQjwQCfclU&list=RDGMEM2VCIgaiSqOfVzBAjPJm-agVMbMQjwQCfclU&start_radio=1"
+          "titulo": "A bixa muda",
+          "url": "https://www.youtube.com/watch?v=EVfGZImxJFk"
         },
         {
-          "titulo": "Maiara e Maraisa part. Dilsinho - Libera Ela",
-          "url": "https://www.youtube.com/watch?v=gjO3Xk0nYdU"
+          "titulo": "A Árvore Com Mais De 30 Anos",
+          "url": "https://www.youtube.com/watch?v=rMDorde5dyU"
         },
         {
-          "titulo": "Gusttavo Lima - Saudade Sua",
-          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+          "titulo": "Serjão Berranteiro",
+          "url": "https://www.youtube.com/watch?v=AcekWw-swgo"
         },
         {
-          "titulo": "Henrique e Juliano - SE EU FOSSE VOCÊ",
-          "url": "https://www.youtube.com/watch?v=tsyETGFUXiI"
+          "titulo": "Mulher tem crise de riso ao falar do pai desaparecido",
+          "url": "https://www.youtube.com/watch?v=BTsBqf1TqoM"
         },
         {
-          "titulo": "Jorge & Mateus - Ranking",
-          "url": "https://www.youtube.com/watch?v=4_QvhB89T-g"
+          "titulo": "Entrevistada Nervosa",
+          "url": "https://www.youtube.com/watch?v=fn_yC0GzldU"
         },
         {
-          "titulo": "Marília Mendonça - SERENATA",
-          "url": "https://www.youtube.com/watch?v=noKzDrxHioc"
+          "titulo": "Entrevistando Morto",
+          "url": "https://www.youtube.com/watch?v=1AyyhsJ7geU"
         }
       ]
     },
     {
-      "titulo": "POP",
+      "titulo": "CriOnças",
       "cor": "orange",
       "videos": [
         {
@@ -124,24 +128,24 @@
           "url": "/"
         },
         {
-          "titulo": "The Chainsmokers - Closer",
-          "url": "https://www.youtube.com/watch?v=PT2_F-1esPk"
+          "titulo": "Cagado de fome",
+          "url": "https://www.youtube.com/watch?v=pNVT64PHcik"
         },
         {
-          "titulo": "Maroon 5 - Girls Like You ft. Cardi B",
-          "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
+          "titulo": "João sincero",
+          "url": "https://www.youtube.com/watch?v=AYy51W249Z8"
         },
         {
-          "titulo": "Justin Bieber - Sorry",
-          "url": "https://www.youtube.com/watch?v=fRh_vgS2dFE"
+          "titulo": "Ave Maria",
+          "url": "https://www.youtube.com/watch?v=_RI9jjH9Tcg&t=24s"
         },
         {
-          "titulo": "The Chainsmokers - Don't Let Me Down",
-          "url": "https://www.youtube.com/watch?v=Io0fBr1XBUA"
+          "titulo": "Eai mano brown",
+          "url": "https://www.youtube.com/watch?v=gW0bpFkASwQ"
         },
         {
-          "titulo": "Beyoncé - Halo",
-          "url": "https://www.youtube.com/watch?v=bnVUHWCynig"
+          "titulo": "Cachorro Morde Menino",
+          "url": "https://www.youtube.com/watch?v=bd1HqKXrhVY"
         }
       ]
     },

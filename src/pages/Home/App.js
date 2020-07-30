@@ -24,7 +24,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Clipe da música Thunder, da banda Imagine Dragon, chega a 1,5 bi de views no Youtube, e é uma das mais escutadas, mesmo após 3 anos de lançamento."}   
+        videoDescription={"O centro de cabeleleiro, beauty center da cabeleleila Leila"}   
       />
 
       <Carousel

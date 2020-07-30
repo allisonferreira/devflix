@@ -16,7 +16,7 @@ export default function BannerMain({
   url,
 }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  const bgUrl = `https://media.hugogloss.uol.com.br/uploads/2020/07/cabeleireira-leila1.png`;
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
