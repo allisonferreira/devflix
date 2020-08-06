@@ -32,18 +32,12 @@ function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-    if(window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias'; 
+      const URL = 'https://devmemeflix.herokuapp.com/categorias'; 
       fetch(URL)
        .then(async (respostaDoServer) =>{
-        if(respostaDoServer.ok) {
           const resposta = await respostaDoServer.json();
-          setCategorias(resposta);
-          return; 
-        }
-        throw new Error('Não foi possível pegar os dados');
-       })
-    }    
+          setCategorias([...resposta,]);
+       });
   }, []);
 
   return (
