@@ -32,7 +32,9 @@ function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-      const URL = 'https://devmemeflix.herokuapp.com/categorias'; 
+      const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://devmemeflix.herokuapp.com/categorias'; 
       fetch(URL)
        .then(async (respostaDoServer) =>{
           const resposta = await respostaDoServer.json();

@@ -11,6 +11,12 @@
             "nome": "Back End",
             "descricao": "Uma categoria show 2",
             "cor": "#6bd1ff"
+        },
+        {
+            "id": 3,
+            "nome": "Back End",
+            "descricao": "Uma categoria show 2",
+            "cor": "#6bd1ff"
         }
     ]
 }
