@@ -1,22 +1,187 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria show",
-            "cor": "#6bd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Uma categoria show 2",
-            "cor": "#6bd1ff"
-        },
-        {
-            "id": 3,
-            "nome": "Back End",
-            "descricao": "Uma categoria show 2",
-            "cor": "#6bd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Memes Old",
+      "descricao": "Uma categoria show",
+      "cor": "#FFD700"
+    },
+    {
+      "id": 2,
+      "titulo": "Músicas",
+      "descricao": "Uma categoria show 2",
+      "cor": "#53dc98"
+    },
+    {
+      "id": 3,
+      "titulo": "As melhores entrevistas",
+      "descricao": "Uma categoria show 2",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "CriOnças",
+      "descricao": "Uma categoria show 2",
+      "cor": "orange"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Centro de Beleila, Leila Cabeleleilo",
+      "url": "https://www.youtube.com/watch?v=bvOgTtZriLo&t=7s",
+      "descricao": "AAAAAAAA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "ARREIA",
+      "url": "https://www.youtube.com/watch?v=NY-JK_ie95E"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Exatamenthi",
+      "url": "https://www.youtube.com/watch?v=VKKas8s16TA"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Solange, a gaga de ilheus",
+      "url": "https://www.youtube.com/watch?v=AIFK3U3iC-k"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Para a nossa alegria",
+      "url": "https://www.youtube.com/watch?v=1DfzOq0oLC8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Eita Giovana",
+      "url": "https://www.youtube.com/watch?v=rK1qOxn7Rdk"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Meu Óculos, Ninguém Sai, Juliana Está Desmaiada!",
+      "url": "https://www.youtube.com/watch?v=K246aHwFF04"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Judite",
+      "url": "https://www.youtube.com/watch?v=vEaNCoCXcdk"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Daniel Gavião o James Blunt brasileiro -You're Beautiful ",
+      "url": "https://www.youtube.com/watch?v=eTmdhFGRH0s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Thiago Delfino Audição Ídolos",
+      "url": "https://www.youtube.com/watch?v=hQrdQnpNJV8"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Aline Borel - Eu Vacilei, Pô",
+      "url": "https://www.youtube.com/watch?v=3jO2zpjGVgk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "MC CAROL MEU NAMORADO E MAIOR OTARIO",
+      "url": "https://www.youtube.com/watch?v=vPh-GPz2rWs"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "MC Carol - Jorginho Me Empresta A 12",
+      "url": "https://www.youtube.com/watch?v=MR7G7hCGTIU&t=10s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Aline Borel - Eu Vou Fumar Uma Maconha",
+      "url": "https://www.youtube.com/watch?v=HNOETTNauQI"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "A bixa muda",
+      "url": "https://www.youtube.com/watch?v=EVfGZImxJFk"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "A Árvore Com Mais De 30 Anos",
+      "url": "https://www.youtube.com/watch?v=rMDorde5dyU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Serjão Berranteiro",
+      "url": "https://www.youtube.com/watch?v=AcekWw-swgo"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Mulher tem crise de riso ao falar do pai desaparecido",
+      "url": "https://www.youtube.com/watch?v=BTsBqf1TqoM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Entrevistada Nervosa",
+      "url": "https://www.youtube.com/watch?v=fn_yC0GzldU"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "Entrevistando Morto",
+      "url": "https://www.youtube.com/watch?v=1AyyhsJ7geU"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Cagado de fome",
+      "url": "https://www.youtube.com/watch?v=pNVT64PHcik"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "João sincero",
+      "url": "https://www.youtube.com/watch?v=AYy51W249Z8"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Ave Maria",
+      "url": "https://www.youtube.com/watch?v=_RI9jjH9Tcg&t=24s"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Eai mano brown",
+      "url": "https://www.youtube.com/watch?v=gW0bpFkASwQ"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "Cachorro Morde Menino",
+      "url": "https://www.youtube.com/watch?v=bd1HqKXrhVY"
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=bvOgTtZriLo&t=7s",
+      "categoriaId": 1,
+      "id": 27
+    }
+  ]
 }
