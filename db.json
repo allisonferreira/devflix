@@ -176,12 +176,6 @@
       "categoriaId": 4,
       "titulo": "Cachorro Morde Menino",
       "url": "https://www.youtube.com/watch?v=bd1HqKXrhVY"
-    },
-    {
-      "titulo": "Video Padrão",
-      "url": "https://www.youtube.com/watch?v=bvOgTtZriLo&t=7s",
-      "categoriaId": 1,
-      "id": 27
     }
   ]
 }
